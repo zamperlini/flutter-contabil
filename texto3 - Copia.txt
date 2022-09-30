@@ -1,5 +1,3 @@
 criado na branch roberval..
-stash criado pelo master
-alterção stash master
-criação de tag plano de contas
+s
 ultimo commit a ser mantido
