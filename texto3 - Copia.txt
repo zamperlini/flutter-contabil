@@ -1,6 +1,5 @@
-criado na branch roberval
+criado na branch roberval - inclusão de texto na mesma linha
 stash criado pelo master
 alterção stash master
 criação de tag plano de contas
-Alteração a ser desfeita
 ultimo commit a ser mantido
