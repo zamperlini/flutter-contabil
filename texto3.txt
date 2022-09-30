@@ -1,5 +1,5 @@
-stash criado pelo master
-alterção stash master
-criação de tag plano de contas
-Alteração a ser desfeita
-ultimo commit a ser mantido
+stash criado pelo master.
+alterção stash master.
+criação de tag plano de contas.
+Alteração a ser desfeita.
+ultimo commit a ser mantido.
